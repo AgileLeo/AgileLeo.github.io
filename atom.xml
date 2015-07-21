@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://agileleo.github.io/atom.xml" rel="self"/>
   <link href="http://agileleo.github.io/"/>
-  <updated>2015-07-21T18:05:42+08:00</updated>
+  <updated>2015-07-21T18:15:00+08:00</updated>
   <id>http://agileleo.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Blog]]></title>
+    <link href="http://agileleo.github.io/blog/2015/07/21/second-blog/"/>
+    <updated>2015-07-21T18:14:30+08:00</updated>
+    <id>http://agileleo.github.io/blog/2015/07/21/second-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Blog]]></title>
