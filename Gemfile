@@ -14,6 +14,9 @@ group :development do
   gem 'sass-globbing', '~> 1.0.0'
   gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4.0'
+  gem 'liquid', '~> 2.6.2'# typo This theme requires that you update your Gemfile to use a at least liquid 2.5.0:
+
+
 end
 
 gem 'sinatra', '~> 1.4.2'
